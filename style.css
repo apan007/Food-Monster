@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 40px;
+    padding: 150px 5px;
+}
+.half-width{
+width: 50%;
+padding-left:10% ;
+padding-right: 55px;
+}
+.tt{
+    margin-right: 27%;
+
+}
+.half-width img{
+    width: 700px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 800;
+}
+.top-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 100%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: dimgray;
+}
+.latest{
+    padding: 10% 1% 10% 10%;
+    background-color: white;
+}
+.latest-text{
+    text-align: center;
+}
+.three-column{
+    width: 25%;
+    float: left;
+    margin-right: 3%;
+    border-radius: 15px;
+    padding: 1%;
+    box-shadow: 5px 5px 10px gray;
+    background-color: white;
+}
+.three-column img{
+    width: 100%;
+}
+.ltb{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.recipe-item{
+    display: flex;
+}
+.footer-class{
+    background-color: navy;
+    width: 100%;
+    text-align: center;
+    height: 20%;
+    padding: 1%;
+}
+.media{
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 10px 40px cyan;
+    width: 80%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    border-radius: 17px;
+}
+.write{
+    margin-left: 7%;
+    margin-right: 10%;
+    padding-bottom:2% ;
+    font-weight: 700;
+    color: black;
+}
